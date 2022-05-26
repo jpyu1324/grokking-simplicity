@@ -40,3 +40,5 @@ function shift2<T>(array: T[]) {
     array: dropFirst_solution1(array)
   };
 }
+
+export default {};
