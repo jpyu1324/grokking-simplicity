@@ -1,11 +1,10 @@
 {
-  "name": "1.redux",
+  "name": "functional-programming",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node -r tsconfig-paths/register index.ts",
-    "chapter03": "ts-node -r tsconfig-paths/register src/chapter03"
+    "start": "ts-node -r tsconfig-paths/register index.ts"
   },
   "dependencies": {
     "lodash": "^4.17.21"
